@@ -27,7 +27,7 @@ This project implements a real-time data processing system for monitoring weathe
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ayuugoyal/weatherwatch.git
+git clone https://github.com/dineshreddie/Weather-Monitoring.git
 cd weatherwatch
 ```
 
